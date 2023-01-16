@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+  color:white;
+  padding:30px;
+}
+.heading{
+  font-size: larger;
+  font-weight: bold;
+}
+.userBox{
+  background-color: rgb(64, 64, 64);
+  border: white 1px 1px 1px 1px;
+  width: 30vw;
+  text-align: center;
+  padding: 5px;
+  min-width: 300px;
+  
+}

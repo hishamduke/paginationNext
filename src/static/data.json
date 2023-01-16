@@ -1,0 +1,23 @@
+{
+  "profiles": [
+    { "name": "Jijesh", "age": 14 },
+    { "name": "hisham  ", "age": 14 },
+    { "name": "amrthu", "age": 14 },
+    { "name": "hair", "age": 14 },
+    { "name": "agil", "age": 14 },
+    { "name": "ajaz", "age": 14 },
+    { "name": "shahid", "age": 14 },
+    { "name": "john", "age": 14 },
+    { "name": "athul", "age": 14 },
+    { "name": "nikhil  ", "age": 14 },
+    { "name": "rauf", "age": 14 },
+    { "name": "ihsan", "age": 14 },
+    { "name": "fazil", "age": 14 },
+    { "name": "suresh", "age": 14 },
+    { "name": "jiju", "age": 14 },
+    { "name": "suhail", "age": 14 },
+    { "name": "aftab", "age": 14 },
+    { "name": "anagha", "age": 14 },
+    { "name": "amrutha", "age": 14 }
+  ]
+}
